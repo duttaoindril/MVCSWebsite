@@ -1,3 +1,6 @@
+_site/*
+img/*.xcf
+
 # Logs
 logs
 *.log
